@@ -1,5 +1,4 @@
 # Desafio de projeto sobre Git/GitHub da DIO.
 Repositório criado para o Desafio de Projeto.
 
-## Links úteis
-[Sintaxe básica Markdown](https://www.markdownguide.org/basic-syntax/)
+Aqui será inserido meus primeiros aprendizados durante os estudos do bootcamp Santander.
